@@ -1,1 +1,1 @@
-# Adversarial Defense using spatial and frequency domain denoising
+# Trans-defense: Transformer-based denoiser for adversarial defense with spatial-frequency domain representation
